@@ -1,7 +1,7 @@
 # Tutorial: Loading Python-TensorFlow Trained Model in C++
 
 <p align="center">
-<img src="">
+<img src="https://github.com/sansinghsanjay/loading_python_tensorflow_model_in_cpp_tensorflow/blob/master/images/logos.png">
 </p>
 
 ## Introduction
