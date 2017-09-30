@@ -1,4 +1,4 @@
-# Tutorial: Loading Python-TensorFlow Trained Model in C++
+# Loading Python-TensorFlow Trained Model in C++
 
 <p align="center">
 <img src="https://github.com/sansinghsanjay/loading_python_tensorflow_model_in_cpp_tensorflow/blob/master/images/logos.png">
@@ -12,12 +12,13 @@ Because of its simplicity, it is widely accepted in Machine Learning where profe
 
 As far as research is concern, Python is good for Machine Learning tasks. But for production, where devices are resource constrained and/or it is required to get response from system in real time, Python is a disaster.
 
-In situations like above, the best available solution is C++.
+### C++
+C++ is also a general purpose programming language. The major advantage of C++ is that it is powerful, fast and resource efficient programming language. 
+
+### Loading Python TensorFlow Trained Model in C++
+As stated above that C++ is powerful, fast and resource efficient programming language. C++ is an ideal solution for the resource constrained devices and/or system needs response in real time. Thus, it is able to remove above stated limitations of Python.
 
 Subsequent sections are focused on loading Python-TensorFlow trained model in C++. In these sections, it is demonstrated that how to store a Python-TensorFlow trained neural network and then how to load it in C++ TensorFlow.
-
-### C++
-C++ is also a general purpose programming language. The major advantage of C++ is that it is powerful, fast and resource efficient programming language. Thus, it is able to remove above stated limitations of Python and perfect for resource constrained devices or real time systems.
 
 ## Platform Used
 This tutorial is tested on Ubuntu-16.04 LTS OS. Mostly, it is observed that softwares which supports Ubuntu-16.04 also supports Ubuntu-14.04 LTS. Thus, this tutorial is also for those who are using Ubuntu-14.04 LTS OS. For rest of people, this may or may not work.
