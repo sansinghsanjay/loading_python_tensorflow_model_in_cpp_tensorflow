@@ -1,0 +1,9 @@
+cc_binary(
+	name="loading_mnist_model",
+	srcs=["loading_mnist_model.cpp"],
+	deps=[
+		"//tensorflow/cc:client_session",
+		"//tensorflow/cc:cc_ops",
+		"//tensorflow/core:tensorflow",
+	],
+)
